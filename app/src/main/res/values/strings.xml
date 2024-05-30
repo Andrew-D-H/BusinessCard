@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name">Andrew Hua</string>
+    <string name = "title">Computer Science Student</string>
+    <string name = "phone_number">PhoneNumber</string>
+    <string name = "socialMediaHandle">https://github.com/Andrew-D-H</string>
+    <string name = "email">ahua4874@gmail.com"</string>
+</resources>
